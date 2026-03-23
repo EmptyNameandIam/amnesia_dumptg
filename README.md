@@ -46,7 +46,6 @@ git clone https://github.com/EmptyNameandIam/amnesia_dumptg.git
 cd amnesia_dumptg
 python zalua.py
 
----
-**Экономь ресурсы, используй правильные инструменты!** 😎
+
 
 
