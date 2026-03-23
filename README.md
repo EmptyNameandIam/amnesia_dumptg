@@ -11,7 +11,7 @@
 
 Скопируйте и вставьте эти команды в терминал:
 
-```bash
+
 git clone https://github.com
 cd amnesia_dumptg
 python zalua.py
