@@ -10,12 +10,8 @@
 ### 🚀 Быстрый старт (Клонирование)
 
 Скопируйте и вставьте эти команды в терминал:
-
-
-git clone https://github.com
+git clone https://github.com/EmptyNameandIam/amnesia_dumptg.git
 cd amnesia_dumptg
-
-
 python zalua.py
 
 
